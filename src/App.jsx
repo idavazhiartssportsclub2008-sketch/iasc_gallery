@@ -10,14 +10,14 @@ function App() {
       </main>
 
       {/* Sponsors Carousel */}
-      <section className="sponsors-section">
+      {/* <section className="sponsors-section">
         <SponsorsCarousel />
-      </section>
+      </section> */}
 
 
       {/* Footer */}
       <footer className="footer">
-        © {new Date().getFullYear()} Idavazhi Arts & Sports Club • Gallery
+        © {new Date().getFullYear()} Idavazhi Arts & Sports Club • Gallery!!
       </footer>
     </div>
   );

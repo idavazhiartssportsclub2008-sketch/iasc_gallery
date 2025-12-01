@@ -5,6 +5,23 @@ import image1 from "../assets/christmas1.jpg";
 import image2 from "../assets/christmas2.jpg"; 
 import image3 from "../assets/christmas3.jpg";
 import image4 from "../assets/christmas4.jpg";
+
+
+import image5 from "../assets/christmas5.jpg";
+import image6 from "../assets/christmas6.jpg"; 
+import image7 from "../assets/christmas7.jpg";
+import image8 from "../assets/christmas8.jpg";
+
+import image9 from "../assets/christmas9.jpg";
+import image10 from "../assets/christmas10.jpg"; 
+import image11 from "../assets/christmas11.jpg";
+import image12 from "../assets/christmas12.jpg";
+
+import image13 from "../assets/christmas13.jpg";
+import image14 from "../assets/christmas14.jpg"; 
+import image15 from "../assets/christmas15.jpg";
+import image16 from "../assets/christmas16.jpg";
+
 import video1 from "../assets/video1.mp4";
 import logo from "../assets/idvzhi_logo.jpg"
 
@@ -23,15 +40,23 @@ const MEDIA_ITEMS = [
   // images (remote or local: "/assets/img1.jpg")
   { id: "1", type: "image", src: image1 },
   { id: "2", type: "image", src: image2 },
-  { id: "4", type: "image", src: image3 },
-  { id: "5", type: "image", src: image1 },
-  { id: "6", type: "image", src: image2 },
-  { id: "7", type: "image", src: image4 },
-  { id: "8", type: "image", src: image2 },
-  { id: "9", type: "image", src: image3 },
+  { id: "3", type: "image", src: image3 },
+  { id: "4", type: "image", src: image4 },
+  { id: "5", type: "image", src: image5 },
+  { id: "6", type: "image", src: image6 },
+  { id: "7", type: "image", src: image7 },
+  { id: "8", type: "image", src: image8 },
+  { id: "9", type: "image", src: image9 },
+  { id: "10", type: "image", src: image10 },
+  { id: "11", type: "image", src: image11 },
+  { id: "12", type: "image", src: image12 },
+  { id: "13", type: "image", src: image13 },
+  { id: "14", type: "image", src: image14 },
+  { id: "15", type: "image", src: image15 },
+  { id: "16", type: "image", src: image16 },
 
   // Drive example (replace FILE_ID)
-  { id: "3", type: "image", src: image4 },
+  // { id: "3", type: "image", src: image4 },
 
   // video (local or hosted)
   { id: "v1", type: "video", src: video1 },

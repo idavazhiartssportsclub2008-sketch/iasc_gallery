@@ -17,7 +17,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        © {new Date().getFullYear()} Idavazhi Arts & Sports Club • Gallery!!
+        © {new Date().getFullYear()} Idavazhi Arts & Sports Club • Gallery
       </footer>
     </div>
   );
